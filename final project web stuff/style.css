@@ -1,0 +1,106 @@
+.w3-display-topleft {
+    position: relative !important;
+}
+
+/* p {
+    margin-bottom: 5px !important   ;
+} */
+
+.Oscar {
+    overflow: hidden !important;
+    margin-right: 20% !important;
+    z-index: 500 !important;
+}
+
+.GradientBackground {
+z-index: 1 !important;
+
+}
+.buttonBox {
+    width: 13% !important;
+    height: 50% !important;
+}
+button {
+    margin-bottom: 10px !important;
+}
+
+.button {
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  
+ 
+.MetacriticNum {
+    display: none;
+}
+
+.IMDBNum {
+    display: none;
+}
+
+.RankNum {
+    display: none;
+
+}
+
+.RottenTomatoesNum {
+    display: none;
+
+}
+
+.WorldwideBoxOfficeNum {
+    display: none;
+
+}
+
+.Genre2Num {
+    display: none;
+
+}
+
+.Language_1Num {
+    display: none;
+
+}
+
+.Language_2Num {
+    display: none;
+
+}
+
+.Genre2Num {
+    display: none;
+
+}
+
+.Actors_1Num {
+    display: none;
+
+}
+
+.Actors_2Num{
+    display: none;
+
+}
+
+.Actors_3Num {
+    display: none;
+
+}
+
+.Director1Num {
+    display: none;
+}
+
+.director_2Num {
+    display: none;
+}
+
+.CountryNum {
+    display: none;
+}
+
+  
